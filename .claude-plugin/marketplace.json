@@ -1,0 +1,13 @@
+{
+  "name": "gints-claude-plugin",
+  "owner": {
+    "name": "Gints Krastiņš"
+  },
+  "plugins": [
+    {
+      "name": "docker-skills",
+      "source": "./plugins/docker-skills",
+      "description": "Collection of custom skills for Claude Code including Docker best practices"
+    }
+  ]
+}
