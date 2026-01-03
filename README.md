@@ -5,7 +5,7 @@ Custom skills for Claude Code.
 ## Install
 
 ```bash
-/plugin install https://github.com/gintskrastins/claude-skills
+/plugin install https://github.com/gintskrastins/claude-plugin
 ```
 
 ## Skills

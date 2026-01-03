@@ -1,4 +1,4 @@
 {
-  "name": "claude-skills",
+  "name": "claude-plugin",
   "description": "Collection of custom skills for Claude Code including Docker best practices"
 }
