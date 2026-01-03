@@ -5,7 +5,7 @@ Custom skills for Claude Code.
 ## Install
 
 ```bash
-/plugin marketplace add https://github.com/gintskrastins/claude-plugin.git
+/plugin marketplace add git@github.com:gintskrastins/claude-plugin.git
 /plugin install docker-skills@gints-claude-plugin
 ```
 
